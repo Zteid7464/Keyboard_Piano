@@ -1,8 +1,8 @@
-### A Program that lets you play musical notes with your keyboard.
+# A Program that lets you play musical notes with your keyboard.
 
 Note i am using the German music system
 
-# The layout of the currently implemented keys goes like this:
+### The layout of the currently implemented keys goes like this:
 
 a=C4
 s=CIS4
